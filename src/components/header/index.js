@@ -1,5 +1,5 @@
 import Generations from "../generations";
-import Logo from "../logo";
+import Logo from "../logo1";
 
 const Header = () => {
   return (
