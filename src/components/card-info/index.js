@@ -3,7 +3,14 @@ import TypeEffect from "../type-effect";
 import Logo from "../logo2";
 
 const CardInfo = () => {
-  return <h2>CardInfo</h2>;
+  return (
+    <div>
+      <h2>CardInfo</h2>
+      <Evolution />
+      <TypeEffect />
+      <Logo />
+    </div>
+  );
 };
 
 export default CardInfo;
